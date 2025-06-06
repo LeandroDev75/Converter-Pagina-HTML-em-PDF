@@ -1,0 +1,52 @@
+
+.container1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+
+.element-to-print {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+
+}
+
+.containerTitulo {
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.containerImage {
+display: flex;
+    justify-content: center;
+}
+
+.imageText {
+    width: 700px;
+    height: 400px;
+}
+
+.containerTexto {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+width: 720px;
+border: solid 2px red;
+padding: 20px;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
